@@ -1,0 +1,514 @@
+﻿player.playerId,name,player.photoURL,player.jumperNumber,team.name,Disposals,Marks,Goals,tackles,games
+CD_I1001681,Jodie Hicks,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1001681.png,6,Richmond,12.16666667,1,0,2.666666667,6
+CD_I1001686,Emma King,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1001686.png,60,Kangaroos,8.111111111,2.888888889,0.888888889,1.666666667,9
+CD_I1003018,Jenna Bruton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1003018.png,35,Kangaroos,14.61538462,2.153846154,0.615384615,2.769230769,13
+CD_I1003019,Sabrina Frederick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1003019.png,1,Collingwood,8.916666667,2.333333333,0.25,2.25,12
+CD_I1003023,Tahlia Randall,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1003023.png,16,Kangaroos,9.4,3.533333333,1.6,1.466666667,15
+CD_I1004415,Jaimee Lambert,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1004415.png,9,St Kilda,18,2.363636364,0.363636364,6.818181818,11
+CD_I1005258,Eloise Jones,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005258.png,2,Adelaide Crows,9.928571429,3.071428571,1.071428571,2.714285714,14
+CD_I1005264,Ashleigh Woodland,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005264.png,8,Port Adelaide,18,2.166666667,0.333333333,5,12
+CD_I1005269,Anne Hatchard,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005269.png,33,Adelaide Crows,17.92857143,5.142857143,0.714285714,4.428571429,14
+CD_I1005279,Ebony Marinoff,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005279.png,10,Adelaide Crows,27.71428571,3.571428571,0.142857143,10.92857143,14
+CD_I1005285,Sarah Allan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005285.png,39,Adelaide Crows,10.61538462,2.538461538,0,2.384615385,13
+CD_I1005361,Daria Bannister,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005361.png,3,Essendon,8.7,1.8,0.4,2.3,10
+CD_I1005374,Ellyse Gamble,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005374.png,14,Essendon,6.5,1.25,0,1.333333333,12
+CD_I1005386,Stevie-Lee Thompson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005386.png,14,Adelaide Crows,8.555555556,1.111111111,0.222222222,3.111111111,9
+CD_I1005437,Laura Pugh,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005437.png,32,Fremantle,11.5,1,0.083333333,2.25,12
+CD_I1005452,Nicola Barr,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005452.png,17,St Kilda,11.22222222,2.444444444,0,3.111111111,9
+CD_I1005453,Rebecca Beeson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005453.png,6,GWS GIANTS,21.5,2.333333333,0.083333333,5.75,12
+CD_I1005630,Alexandra Anderson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005630.png,18,Brisbane Lions,24.6,2.666666667,0.333333333,4.733333333,15
+CD_I1005659,Arianna Clarke,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005659.png,34,St Kilda,5.142857143,0.428571429,0.142857143,2.571428571,7
+CD_I1005661,Breanna Koenen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005661.png,3,Brisbane Lions,13.75,4.166666667,0,3.166666667,12
+CD_I1005663,Erica Fowler,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005663.png,17,Geelong Cats,5.875,1.75,0.125,2.625,8
+CD_I1005863,Lauren Pearce,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005863.png,15,Melbourne,11.46666667,1.933333333,0.133333333,1.466666667,15
+CD_I1005866,Ainslie Kemp,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005866.png,16,Hawthorn,15,3,0,0,1
+CD_I1005955,Justine Mules-Robinson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1005955.png,1,Port Adelaide,10.25,1.583333333,0.416666667,2.5,12
+CD_I1006666,Sarah Hosking,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1006666.png,7,Richmond,8.666666667,2.333333333,0.166666667,2.833333333,6
+CD_I1006996,Lauren Brazzale,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1006996.png,12,Richmond,11,1,0,0.5,2
+CD_I1006997,Stephanie Cain,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1006997.png,20,Essendon,16,2.25,0.166666667,4,12
+CD_I1007001,Kate Darby,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007001.png,8,Geelong Cats,3.6,1,0,3.4,5
+CD_I1007006,Jas Grierson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007006.png,11,Sydney Swans,10.33333333,2.666666667,0.083333333,2.083333333,12
+CD_I1007008,Bailey Hunt,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007008.png,35,Essendon,3,1,0,9,1
+CD_I1007011,Sarah Lampard,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007011.png,8,Melbourne,10.125,1.875,0,1,8
+CD_I1007017,Tilly Lucas-Rodd,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007017.png,18,Hawthorn,21.35714286,3.571428571,0,3.857142857,14
+CD_I1007023,Breann Harrington,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007023.png,16,Carlton,12.33333333,3.8,0.333333333,2.8,15
+CD_I1007025,Natalie Plane,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007025.png,32,St Kilda,8.714285714,2,0,3.571428571,7
+CD_I1007026,Gabriella Pound,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007026.png,6,Carlton,7.125,1,0,3,8
+CD_I1007027,Ruby Schleicher,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007027.png,18,Collingwood,14.3,2.6,0.3,6.7,10
+CD_I1007029,Belinda Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007029.png,14,West Coast Eagles,7.6,1.2,0,1.6,5
+CD_I1007030,Jamie Stanton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007030.png,17,Gold Coast SUNS,6.666666667,1.444444444,0.666666667,1.666666667,9
+CD_I1007130,Shannon Campbell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007130.png,20,Brisbane Lions,10.46666667,2.933333333,0,1.333333333,15
+CD_I1007137,Nat Exon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007137.png,29,Hawthorn,5.666666667,1,0,3.666666667,3
+CD_I1007138,Kate Shierlaw,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007138.png,33,Kangaroos,9.642857143,4.357142857,0.714285714,1.214285714,14
+CD_I1007141,Gemma Houghton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007141.png,27,Port Adelaide,9.833333333,2.5,1.916666667,1.5,12
+CD_I1007144,Gabby O'Sullivan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007144.png,9,Fremantle,12.7,1.3,0.2,2.5,10
+CD_I1007151,Aliesha Newman,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007151.png,16,GWS GIANTS,7.25,1.5,0,1.25,4
+CD_I1007152,Harriet Cordner,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007152.png,21,Carlton,14.8,5.133333333,0,2.066666667,15
+CD_I1007155,Meghan McDonald,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007155.png,11,Geelong Cats,7.5,1.5,0,1.333333333,6
+CD_I1007157,Libby Birch,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007157.png,2,Kangaroos,15.66666667,4.8,0,2.133333333,15
+CD_I1007313,Jess Allan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007313.png,32,Adelaide Crows,8.461538462,1.538461538,0.153846154,1.923076923,13
+CD_I1007327,Montana McKinnon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007327.png,10,Richmond,8,2,0,3,2
+CD_I1007360,Ebony O'Dea,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007360.png,2,Port Adelaide,6.75,1.166666667,0,2.75,12
+CD_I1007523,Lisa Steane,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1007523.png,28,West Coast Eagles,7,2,0,2,1
+CD_I1009764,Eden Zanker,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009764.png,29,Melbourne,12.14285714,3.714285714,1.571428571,2.428571429,14
+CD_I1009765,Sophie Van De Heuvel,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009765.png,27,Essendon,10,1.5,0,1.5,2
+CD_I1009772,Mia King,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009772.png,23,Kangaroos,20.88888889,1.666666667,0.333333333,7.222222222,9
+CD_I1009794,Danielle Ponter,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009794.png,15,Adelaide Crows,12.28571429,3,0.642857143,2.642857143,14
+CD_I1009799,Alyce Parker,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009799.png,3,GWS GIANTS,15,1,0,1,1
+CD_I1009803,Alexia Hamilton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009803.png,30,Sydney Swans,7.555555556,2.333333333,0.222222222,2.666666667,9
+CD_I1009805,Maggie Gorham,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009805.png,6,Western Bulldogs,12.25,2,0,1.75,4
+CD_I1009813,Brenna Tarrant,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009813.png,20,Sydney Swans,9,2.416666667,0,2.416666667,12
+CD_I1009822,Georgia Garnett,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009822.png,17,GWS GIANTS,12.41666667,4.75,0.833333333,2.416666667,12
+CD_I1009824,Lily Postlethwaite,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009824.png,6,Brisbane Lions,11.86666667,3,0.066666667,1.533333333,15
+CD_I1009828,Jade Ellenger,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009828.png,5,Brisbane Lions,16.46666667,4.066666667,0.066666667,3.266666667,15
+CD_I1009831,Tarni White,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009831.png,29,Collingwood,18.58333333,5.083333333,0,3.833333333,12
+CD_I1009833,Isabel Dawes,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009833.png,17,Brisbane Lions,20.26666667,2.4,0,5.933333333,15
+CD_I1009836,Natalie Grider,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009836.png,10,Brisbane Lions,12.71428571,2.785714286,0,3.071428571,14
+CD_I1009838,Jesse Wardlaw,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009838.png,30,St Kilda,12.30769231,4.769230769,1.076923077,2.076923077,13
+CD_I1009843,Ellie Hampson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009843.png,7,Brisbane Lions,10.11111111,1.222222222,0.888888889,1.777777778,9
+CD_I1009844,Tahlia Hickie,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009844.png,2,Brisbane Lions,12.53333333,2.866666667,0,3.4,15
+CD_I1009845,Kalinda Howarth,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009845.png,35,Collingwood,10.54545455,2.727272727,0.636363636,1.363636364,11
+CD_I1009847,Sophie Conway,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009847.png,12,Brisbane Lions,16.8,3.133333333,0.333333333,3.8,15
+CD_I1009853,Tyla Hanks,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009853.png,5,Melbourne,23,2.066666667,0.266666667,6.933333333,15
+CD_I1009854,Denby Taylor,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009854.png,18,Melbourne,8.25,0.75,0,2.75,4
+CD_I1009855,Darcy Guttridge,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009855.png,5,St Kilda,7.5,1.833333333,0.5,2.333333333,6
+CD_I1009856,Grace Egan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009856.png,1,Richmond,19.77777778,2.444444444,0,3.666666667,9
+CD_I1009857,Georgia Clarke,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009857.png,17,Essendon,13.16666667,2.5,0.083333333,1.333333333,12
+CD_I1009860,Rebecca Webster,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009860.png,21,Geelong Cats,15.75,2.916666667,0.083333333,2.666666667,12
+CD_I1009861,Olivia Purcell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009861.png,2,Melbourne,26.5,1,0.5,7,2
+CD_I1009863,Nina Morrison,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009863.png,9,Geelong Cats,20.25,1.75,0.5,7.666666667,12
+CD_I1009865,Lucy McEvoy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009865.png,9,Sydney Swans,14.08333333,3,0,3.416666667,12
+CD_I1009866,Rene Caris,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009866.png,19,St Kilda,6.5,1.166666667,0,2.333333333,6
+CD_I1009867,Georgia Patrikios,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009867.png,21,St Kilda,20,3,0.461538462,4.307692308,13
+CD_I1009868,Maddy Brancatisano,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009868.png,5,Gold Coast SUNS,13.66666667,2.083333333,0,3.333333333,12
+CD_I1009873,Olivia Vesely,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009873.png,23,St Kilda,11.5,2,0,3.5,2
+CD_I1009875,Eleanor Brown,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009875.png,8,GWS GIANTS,5.857142857,1.285714286,0,2.142857143,7
+CD_I1009880,Charlotte Wilson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009880.png,22,Gold Coast SUNS,9.888888889,3.222222222,0,1.111111111,9
+CD_I1009882,Gabrielle Newton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009882.png,1,Fremantle,24.41666667,2.916666667,0.166666667,7.333333333,12
+CD_I1009885,Madison Prespakis,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009885.png,4,Essendon,23.45454545,2.909090909,0.181818182,4.181818182,11
+CD_I1009888,Madeleine Guerin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009888.png,18,Carlton,15.38461538,1.384615385,0.153846154,5.538461538,13
+CD_I1009906,Mikayla Bowen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009906.png,1,Geelong Cats,21.58333333,3.333333333,0.5,6.666666667,12
+CD_I1009907,Roxanne Roux,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009907.png,9,West Coast Eagles,7.181818182,2.090909091,0,2.636363636,11
+CD_I1009910,Courtney Hodder,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009910.png,21,Brisbane Lions,15.42857143,1.928571429,1,6.214285714,14
+CD_I1009962,Poppy Boltz,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009962.png,15,Brisbane Lions,6.666666667,0.666666667,0.666666667,1,3
+CD_I1009963,Lauren Bella,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009963.png,2,Gold Coast SUNS,6,0.75,0,1.375,8
+CD_I1009976,Maddison Gay,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009976.png,6,Essendon,21,3,0,3.5,2
+CD_I1009980,Kate Hore,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1009980.png,10,Melbourne,21.33333333,3.866666667,1.6,5.266666667,15
+CD_I1010096,Lauren Butler,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010096.png,23,Collingwood,10.33333333,1.833333333,0,2,12
+CD_I1010102,Nell Morris-Dalton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010102.png,17,Collingwood,4.375,1,0.5,2,8
+CD_I1010103,Isabella Grant,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010103.png,3,Western Bulldogs,11.90909091,2.818181818,0,2.272727273,11
+CD_I1010104,Monique Conti,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010104.png,4,Richmond,26.33333333,1.916666667,0.166666667,7.166666667,12
+CD_I1010236,Gabrielle Colvin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010236.png,32,Melbourne,7,1.166666667,0,3.166666667,6
+CD_I1010257,Clara Fitzpatrick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010257.png,9,Gold Coast SUNS,12.5,2.625,0,3,8
+CD_I1010263,Chloe Molloy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010263.png,5,Sydney Swans,14.66666667,3.555555556,2.111111111,3.444444444,9
+CD_I1010264,Alexandra Morcom,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010264.png,25,Essendon,11.7,1.3,0,3,10
+CD_I1010265,Ash Riddell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010265.png,7,Kangaroos,35.46666667,3.066666667,0.4,4.066666667,15
+CD_I1010658,Kristy Stratton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010658.png,41,Hawthorn,7.5,2.75,0.25,1.75,4
+CD_I1010662,Claudia Whitfort,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010662.png,4,Gold Coast SUNS,18.4,2,0.2,2,5
+CD_I1010663,Ashleigh Brazill,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010663.png,24,Fremantle,9.454545455,1.727272727,0,2.454545455,11
+CD_I1010677,Kim Rennie,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010677.png,26,Kangaroos,12.2,2.666666667,0.066666667,2.133333333,15
+CD_I1010686,Elle Bennetts,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010686.png,11,Western Bulldogs,14,2.25,0,2,12
+CD_I1010688,Maddie Shevlin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010688.png,35,Richmond,10.7,1.9,0.2,1.4,10
+CD_I1010689,Naomi Ferres,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010689.png,16,Western Bulldogs,8.5,0,0.5,3.5,2
+CD_I1010690,Bonnie Toogood,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1010690.png,8,Essendon,15.6,4.4,0.5,3.6,10
+CD_I1011057,Teah Charlton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1011057.png,25,Adelaide Crows,12.58333333,1.25,0.416666667,5.25,12
+CD_I1011062,Cheyenne Hammond,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1011062.png,28,Port Adelaide,7.571428571,0.714285714,0,2.714285714,7
+CD_I1011069,Hannah Munyard,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1011069.png,6,Adelaide Crows,14,3,0,5,1
+CD_I1011080,Chelsea Biddell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1011080.png,12,Adelaide Crows,14.28571429,3,0,1.571428571,14
+CD_I1011091,Rachelle Martin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1011091.png,5,Adelaide Crows,5.5,0.5,0.5,1.5,2
+CD_I1011095,Madison Newman,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1011095.png,17,Adelaide Crows,19.78571429,3.428571429,0.214285714,2.642857143,14
+CD_I1012234,Mikayla Hyde,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012234.png,22,Collingwood,6.7,1.2,0.2,2,10
+CD_I1012236,Sarah Verrier,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012236.png,5,Fremantle,11.09090909,1.545454545,0.090909091,3.363636364,11
+CD_I1012241,Abbey Dowrick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012241.png,5,Port Adelaide,18.36363636,2.090909091,0.181818182,7,11
+CD_I1012242,Emma O'Driscoll,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012242.png,3,Fremantle,15.27272727,3.636363636,0,3.454545455,11
+CD_I1012248,Philipa Seth,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012248.png,18,Fremantle,8.571428571,1.142857143,0,2.714285714,7
+CD_I1012253,Jasmin Stewart,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012253.png,13,Port Adelaide,10.2,1.6,0.4,2.2,5
+CD_I1012259,Jaide Britton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012259.png,18,West Coast Eagles,16.15384615,2,0.153846154,4.615384615,13
+CD_I1012558,Brooke Walker,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012558.png,9,Essendon,10.25,1.5,0.25,4,4
+CD_I1012575,Casey Sherriff,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012575.png,12,Hawthorn,8,0.857142857,0.142857143,2.571428571,14
+CD_I1012580,Sophie Alexander,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012580.png,24,Essendon,9.75,2.333333333,0.666666667,2.333333333,12
+CD_I1012581,Gabrielle Biedenweg-Webster,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012581.png,31,Fremantle,6.545454545,1.454545455,0.363636364,2.090909091,11
+CD_I1012595,Vaomua Laloifi,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012595.png,32,Western Bulldogs,6.5,1.25,0,1.25,4
+CD_I1012637,Mikala Cann,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012637.png,25,Collingwood,14.83333333,1.583333333,0.166666667,6.416666667,12
+CD_I1012640,Julia Crockett-Grills,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012640.png,6,Geelong Cats,13.71428571,2.714285714,0.857142857,3.285714286,7
+CD_I1012661,Lauren Ahrens,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012661.png,27,Western Bulldogs,8.75,2.25,0,1.75,12
+CD_I1012662,Airlie Runnalls,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012662.png,36,Collingwood,15.75,2.666666667,0.166666667,4,12
+CD_I1012668,Caitlin Greiser,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012668.png,9,Richmond,9.833333333,3.25,0.833333333,1.333333333,12
+CD_I1012692,Kate Dempsey,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012692.png,19,Richmond,13.45454545,1.909090909,0,1.545454545,11
+CD_I1012694,Alice Edmonds,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012694.png,33,Western Bulldogs,10.41666667,2.083333333,0.25,4.333333333,12
+CD_I1012700,Beth Lynch,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012700.png,20,Richmond,10.18181818,2.727272727,0,4.272727273,11
+CD_I1012709,Tara Bohanna,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012709.png,42,Carlton,8.307692308,3,1.153846154,1.384615385,13
+CD_I1012712,Alison Drennan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012712.png,10,West Coast Eagles,13.57142857,1.857142857,0,6.142857143,7
+CD_I1012713,Shelley Heath,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012713.png,30,Melbourne,16.21428571,1.428571429,0.142857143,6.714285714,14
+CD_I1012716,Selena Karlson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012716.png,20,Collingwood,2.5,0.5,0,1.5,2
+CD_I1012957,Alice Mitchell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012957.png,8,Sydney Swans,7.833333333,2.583333333,0,1.833333333,12
+CD_I1012987,Serene Watson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012987.png,12,St Kilda,22.07692308,3.538461538,0,2.538461538,13
+CD_I1012989,Taylor Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012989.png,31,Brisbane Lions,8.4,2.466666667,1.2,1.933333333,15
+CD_I1012994,Bella R. Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1012994.png,22,Fremantle,6,1.75,0.25,2.75,4
+CD_I1013015,Tamara Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013015.png,24,Hawthorn,11.07692308,2.076923077,0,5.769230769,13
+CD_I1013017,Molly McDonald,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013017.png,1,St Kilda,11.5,2.166666667,0.333333333,3.5,6
+CD_I1013026,Elisabeth Georgostathis,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013026.png,17,Western Bulldogs,14.625,2,0,4,8
+CD_I1013027,Abbie McKay,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013027.png,5,Carlton,22.18181818,1.636363636,0.181818182,4.545454545,11
+CD_I1013028,Katie Lynch,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013028.png,7,Gold Coast SUNS,14.25,4.75,0,2,4
+CD_I1013032,Britney Gutknecht,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013032.png,18,Western Bulldogs,16.41666667,2.25,0,2.333333333,12
+CD_I1013120,Nicole Bresnehan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013120.png,12,Kangaroos,10,3,0,6,1
+CD_I1013442,Jasmine Ferguson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013442.png,20,Kangaroos,8.333333333,3,0,1.866666667,15
+CD_I1013522,Georgia Nanscawen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013522.png,5,Essendon,23.33333333,2.166666667,0,10.08333333,12
+CD_I1013706,Sarah Rowe,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013706.png,7,Collingwood,17.90909091,2.909090909,0,1.909090909,11
+CD_I1013933,Georgie Rankin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013933.png,10,Geelong Cats,12.33333333,2.166666667,0,2.75,12
+CD_I1013937,Angelique Stannett,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013937.png,4,Fremantle,9.666666667,0.666666667,0.583333333,3.416666667,12
+CD_I1013943,Tessa Boyd,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1013943.png,24,Kangaroos,10.36363636,2.454545455,0,1.545454545,11
+CD_I1014034,Aisling McCarthy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014034.png,7,Fremantle,24.33333333,2.75,0.666666667,4.75,12
+CD_I1014359,Laura Gardiner,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014359.png,31,Sydney Swans,31.66666667,3.333333333,0.166666667,9.583333333,12
+CD_I1014367,Alyssa Bannan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014367.png,6,Melbourne,10,1.733333333,0.6,2.933333333,15
+CD_I1014372,Jessica Fitzgerald,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014372.png,23,Western Bulldogs,16.16666667,1.416666667,0.25,5.083333333,12
+CD_I1014373,Ciara Fitzgerald,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014373.png,36,Carlton,11.73333333,1.8,0,2.8,15
+CD_I1014375,Ellie McKenzie,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014375.png,22,Richmond,22.4,3,0.8,4.6,10
+CD_I1014556,Hannah Priest,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014556.png,14,St Kilda,8.461538462,2.153846154,0.384615385,3.307692308,13
+CD_I1014559,Najwa Allen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014559.png,4,Hawthorn,10.14285714,2.714285714,0,0.285714286,7
+CD_I1014599,Caitlin Gould,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014599.png,1,Adelaide Crows,9.555555556,3.444444444,1.111111111,2.777777778,9
+CD_I1014624,Indy Tahau,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014624.png,10,Port Adelaide,11.25,2.916666667,2.083333333,2,12
+CD_I1014628,Taylah Levy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014628.png,10,GWS GIANTS,10.11111111,2.666666667,0.333333333,3,9
+CD_I1014662,Kiera Mueller,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014662.png,13,Adelaide Crows,7.555555556,0.888888889,0,2.444444444,9
+CD_I1014663,Zoe Prowse,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014663.png,4,Adelaide Crows,9.642857143,2.642857143,0.142857143,2.142857143,14
+CD_I1014781,Emelia Yassir,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014781.png,2,Richmond,8,1.444444444,0.444444444,2,9
+CD_I1014785,Zali Friswell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014785.png,20,Geelong Cats,12.63636364,1.545454545,0.090909091,2.363636364,11
+CD_I1014793,Tahlia Gillard,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014793.png,17,Melbourne,12.9,2.8,0.1,2.3,10
+CD_I1014810,Georgie Prespakis,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014810.png,41,Geelong Cats,25.83333333,2,0.333333333,5.916666667,12
+CD_I1014835,Tyanna Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014835.png,6,St Kilda,19.61538462,1.692307692,0.153846154,7.384615385,13
+CD_I1014841,Ashleigh Richards,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014841.png,22,St Kilda,13.42857143,3,0.571428571,5.714285714,7
+CD_I1014869,Jenna Richardson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014869.png,11,Hawthorn,12.58333333,4.666666667,0,2.333333333,12
+CD_I1014882,Laura McClelland,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014882.png,16,Richmond,8.166666667,1.833333333,0,1.833333333,12
+CD_I1014904,Megan Fitzsimon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014904.png,24,Melbourne,16.86666667,1.6,0.333333333,6.533333333,15
+CD_I1014917,Lily-Rose Williamson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014917.png,15,Collingwood,12.45454545,2,0,4,11
+CD_I1014962,Ella Friend,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014962.png,16,St Kilda,9.818181818,1.272727273,0,2,11
+CD_I1014991,Keeley Skepper,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1014991.png,4,Carlton,6.6,1.4,0.1,2.9,10
+CD_I1015012,Ally Morphett,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015012.png,7,Sydney Swans,17.18181818,5,0.090909091,3.272727273,11
+CD_I1015025,Georgia Gall,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015025.png,9,Melbourne,8,2.272727273,0.636363636,1.636363636,11
+CD_I1015029,Maeve Chaplin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015029.png,13,Melbourne,18.23076923,3.461538462,0.076923077,4,13
+CD_I1015047,Mimi Hill,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015047.png,10,Carlton,23,2.083333333,0.333333333,3.333333333,12
+CD_I1015053,Alana Porter,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015053.png,9,Collingwood,6.714285714,0.285714286,0.571428571,2.285714286,7
+CD_I1015060,Nicola Xenos,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015060.png,27,St Kilda,9,1.25,0.5,5.5,4
+CD_I1015068,Charlie Rowbottom,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015068.png,8,Gold Coast SUNS,27.63636364,3.363636364,0.090909091,6.363636364,11
+CD_I1015070,Eliza James,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015070.png,2,Collingwood,4.5,2,0.5,1.5,2
+CD_I1015088,Elizabeth McNamara,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015088.png,22,Melbourne,22.06666667,3.4,0.066666667,4.333333333,15
+CD_I1015091,Sarah Hartwig,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015091.png,15,Western Bulldogs,9,2.333333333,0.666666667,2.416666667,12
+CD_I1015094,Alice Burke,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015094.png,3,St Kilda,11,2,0,3.615384615,13
+CD_I1015097,Bella Eddey,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015097.png,3,Kangaroos,13,1.692307692,0.384615385,2.384615385,13
+CD_I1015105,Daisy Walker,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015105.png,28,GWS GIANTS,6,0.6,0,3.4,10
+CD_I1015124,Ruby Tripodi,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015124.png,19,Kangaroos,16.33333333,2.133333333,0.2,5.333333333,15
+CD_I1015137,Isabelle Pritchard,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015137.png,4,Western Bulldogs,21.6,1.6,0.4,4.4,10
+CD_I1015147,Charlotte Baskaran,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015147.png,26,St Kilda,9.461538462,1.692307692,0.230769231,3.769230769,13
+CD_I1015152,Montana Ham,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015152.png,18,Sydney Swans,18.91666667,4.083333333,0.583333333,4.666666667,12
+CD_I1015174,Ash Van Loon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015174.png,17,Sydney Swans,8.3,1.9,0,4.1,10
+CD_I1015175,Tess Craven,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015175.png,5,Kangaroos,14.86666667,3,0.4,3.133333333,15
+CD_I1015181,Darcy Moloney,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015181.png,4,Sydney Swans,11.18181818,1.727272727,0.181818182,2.454545455,11
+CD_I1015182,Mia Van Dyke,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015182.png,19,Essendon,2,1.5,0,0.5,2
+CD_I1015189,Keeley Hardingham,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015189.png,24,Western Bulldogs,8,0,0,1,1
+CD_I1015193,Gabbi Featherston,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015193.png,32,Geelong Cats,3.333333333,0.666666667,0,1.666666667,3
+CD_I1015195,Annie Lee,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015195.png,5,Collingwood,6.285714286,1.714285714,0,3,7
+CD_I1015201,Analea McKee,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1015201.png,26,Western Bulldogs,4,1,0,2,1
+CD_I1016781,Ella Maurer,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1016781.png,10,Gold Coast SUNS,13.125,1.75,0,2.375,8
+CD_I1016865,Poppy Kelly,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1016865.png,14,Richmond,8.5,1.666666667,0,2,12
+CD_I1016868,Hannah Stuart,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1016868.png,18,St Kilda,7.5,1.25,0.125,2,8
+CD_I1016938,Ruby Svarc,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1016938.png,29,Brisbane Lions,9.857142857,1.571428571,0.785714286,3.214285714,14
+CD_I1016956,Vivien Saad,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1016956.png,39,GWS GIANTS,3,0,0,4,1
+CD_I1016971,Ellie Gavalas,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1016971.png,25,Western Bulldogs,12.09090909,1.454545455,0.454545455,2.636363636,11
+CD_I1017023,Rebecca Miller,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017023.png,15,Richmond,11.81818182,2,0.181818182,1.454545455,11
+CD_I1017025,Gabby Seymour,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017025.png,28,Richmond,9.125,2,0,2.625,8
+CD_I1017029,Grace Campbell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017029.png,13,Collingwood,7.090909091,1.454545455,0.363636364,3.090909091,11
+CD_I1017286,Emily Pease,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017286.png,33,GWS GIANTS,17.66666667,1.5,0,2.833333333,12
+CD_I1017292,Tarni Evans,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017292.png,18,GWS GIANTS,12.58333333,3.5,1.083333333,3.083333333,12
+CD_I1017322,Wallis Randell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017322.png,15,Gold Coast SUNS,6.333333333,2,0,2,6
+CD_I1017328,Lily Tarlinton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017328.png,21,Adelaide Crows,6.5,1.333333333,0,3.166666667,6
+CD_I1017333,Isabella Lewis,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017333.png,6,West Coast Eagles,16.46153846,1.692307692,0.307692308,3.846153846,13
+CD_I1017347,Mim Strom,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017347.png,21,Fremantle,19.25,2.333333333,0,6.75,12
+CD_I1017514,Liz McGrath,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1017514.png,27,West Coast Eagles,6.5,0.625,0,2.375,8
+CD_I1018403,Eilish Sheerin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018403.png,4,Kangaroos,17.2,1.8,0.4,4.9,10
+CD_I1018405,Jacqueline Parry,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018405.png,5,Geelong Cats,13,5,0.916666667,2.833333333,12
+CD_I1018874,Niamh Kelly,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018874.png,23,Adelaide Crows,16.15384615,2.076923077,0.307692308,2.538461538,13
+CD_I1018875,Grace Kelly,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018875.png,20,Adelaide Crows,12.38461538,1.461538462,0.538461538,2.307692308,13
+CD_I1018949,Aine Tighe,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018949.png,10,Fremantle,8,0,1,3,1
+CD_I1018953,Aileen Gilroy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018953.png,7,Hawthorn,13.77777778,2.222222222,0.222222222,3.555555556,9
+CD_I1018955,Kate Surman,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018955.png,7,Geelong Cats,11.08333333,1.416666667,0.083333333,3.5,12
+CD_I1018966,Sinead Goldrick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1018966.png,23,Melbourne,12.875,1.375,0,2.75,8
+CD_I1019034,Orla O'Dwyer,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019034.png,9,Brisbane Lions,18.06666667,1.733333333,0.466666667,3.533333333,15
+CD_I1019035,Greta Bodey,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019035.png,3,Hawthorn,9.857142857,1.642857143,0.785714286,3.642857143,14
+CD_I1019053,Catherine Svarc,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019053.png,25,Brisbane Lions,11.86666667,1.2,0.066666667,6.2,15
+CD_I1019057,Dakota Davidson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019057.png,14,Brisbane Lions,8.066666667,2.666666667,0.933333333,1.8,15
+CD_I1019059,Maria Moloney,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019059.png,9,Port Adelaide,9.833333333,1.583333333,0.083333333,4.083333333,12
+CD_I1019431,Brooke Tonon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019431.png,28,Adelaide Crows,9.583333333,1,0,3,12
+CD_I1019456,Keeley Kustermann,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019456.png,7,Adelaide Crows,7.153846154,1.692307692,0.230769231,2,13
+CD_I1019503,Hannah Ewings,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019503.png,9,Adelaide Crows,8.666666667,1.666666667,0,2.666666667,3
+CD_I1019509,Katelyn Pope,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019509.png,44,Port Adelaide,8.333333333,0.833333333,0.416666667,2.916666667,12
+CD_I1019689,Amber Clarke,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019689.png,25,St Kilda,8.538461538,1.461538462,0.384615385,2.307692308,13
+CD_I1019693,Brooke Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019693.png,18,Adelaide Crows,7.666666667,1,0,2.333333333,3
+CD_I1019700,Mackenzie Eardley,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019700.png,17,Hawthorn,9.833333333,2.083333333,0.083333333,4.166666667,12
+CD_I1019705,Mia Busch,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019705.png,28,Essendon,13.25,1.916666667,0,4.083333333,12
+CD_I1019711,Keeley Sherar,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019711.png,25,Carlton,16.46666667,3.2,0.333333333,5.533333333,15
+CD_I1019713,Georgia Campbell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019713.png,1,Melbourne,6.833333333,1.416666667,0.166666667,1.333333333,12
+CD_I1019724,Carly Remmos,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019724.png,30,Collingwood,16.375,1.875,0.125,5.625,8
+CD_I1019734,Charlotte Simpson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019734.png,33,St Kilda,9,1,0.125,3.25,8
+CD_I1019736,Yasmin Duursma,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019736.png,11,Carlton,10.36363636,2.545454545,0,3.181818182,11
+CD_I1019762,Paige Scott,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019762.png,5,Richmond,8.416666667,1.5,0.25,2.833333333,12
+CD_I1019806,Jemma Rigoni,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019806.png,43,Melbourne,6.75,1.625,0.125,2,8
+CD_I1019811,Alice O'Loughlin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019811.png,6,Kangaroos,11.84615385,2.461538462,0.769230769,3.769230769,13
+CD_I1019817,Charlotte Taylor,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019817.png,11,Collingwood,9,2,0,7,1
+CD_I1019819,Brooke Vickers,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019819.png,24,Carlton,8.727272727,1.636363636,0,2.454545455,11
+CD_I1019821,Jasmine Fleming,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019821.png,5,Hawthorn,16.63636364,1.545454545,0.181818182,5.181818182,11
+CD_I1019828,Keely Coyne,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019828.png,9,Hawthorn,10.71428571,1.5,0.142857143,2.285714286,14
+CD_I1019830,Bridie Hipwell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019830.png,19,Hawthorn,9.166666667,0.5,0.333333333,4.833333333,6
+CD_I1019834,Sofia Hurley,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019834.png,25,Sydney Swans,20.2,2.8,0.4,5.6,5
+CD_I1019849,Claire Ransom,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019849.png,26,GWS GIANTS,8,1,0,3,1
+CD_I1019883,Laura Elliott,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019883.png,20,Hawthorn,9.642857143,2.357142857,0,1.357142857,14
+CD_I1019887,Amelia Velardo,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1019887.png,1,Carlton,12.69230769,1.769230769,0,2.384615385,13
+CD_I1021365,Annabel Kievit,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021365.png,1,Gold Coast SUNS,8.25,1,0.166666667,3.583333333,12
+CD_I1021367,J'Noemi Anderson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021367.png,7,St Kilda,8.636363636,1.636363636,0.636363636,5.090909091,11
+CD_I1021399,Jessica Low,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021399.png,30,Fremantle,9.9,1.2,0.2,2.8,10
+CD_I1021409,Matilda Dyke,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021409.png,16,Essendon,11.08333333,1.833333333,0,3.083333333,12
+CD_I1021410,Dana East,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021410.png,8,Fremantle,13.75,1.125,0.125,4.875,8
+CD_I1021411,Amy Franklin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021411.png,19,West Coast Eagles,5.363636364,1.181818182,0.545454545,1.454545455,11
+CD_I1021412,Maggie MacLachlan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021412.png,21,Essendon,12.63636364,2.090909091,0.363636364,2.909090909,11
+CD_I1021415,Courtney Rowley,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021415.png,5,West Coast Eagles,13,1.25,0.125,2.875,8
+CD_I1021416,Beth Schilling,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021416.png,30,West Coast Eagles,0,0,0,0,1
+CD_I1021417,Poppy Stockwell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021417.png,20,Fremantle,6,2,0.5,1.5,2
+CD_I1021419,Charlotte Thomas,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021419.png,3,West Coast Eagles,17.23076923,3.230769231,0.076923077,2.769230769,13
+CD_I1021436,Mikayla Pauga,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021436.png,13,GWS GIANTS,10.16666667,1.333333333,0,2.25,12
+CD_I1021441,Charlotte Mullins,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021441.png,28,Brisbane Lions,16.71428571,3.071428571,0.5,3.142857143,14
+CD_I1021454,Caitlin Thorne,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021454.png,25,Geelong Cats,6.833333333,1.666666667,0.166666667,4.666666667,6
+CD_I1021456,Lucy Single,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021456.png,13,Gold Coast SUNS,19.75,1.5,0.083333333,6.5,12
+CD_I1021460,Giselle Davies,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021460.png,27,Sydney Swans,6.333333333,2,0.333333333,2.666666667,3
+CD_I1021524,Libby Graham,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021524.png,18,Richmond,8.666666667,2.416666667,0,1.583333333,12
+CD_I1021527,Brooke Brown,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021527.png,36,Essendon,6.5,1,0,0.5,6
+CD_I1021528,Amy Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021528.png,15,Kangaroos,18.53333333,3.533333333,0.2,3.666666667,15
+CD_I1021530,Shanae Davison,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021530.png,11,Brisbane Lions,9.142857143,2.357142857,0.071428571,1.214285714,14
+CD_I1021793,Paige Trudgeon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021793.png,10,St Kilda,10.33333333,2.25,0,3.5,12
+CD_I1021819,Sophie Butterworth,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021819.png,28,Hawthorn,4,1.6,0,1,5
+CD_I1021822,Mikayla Williamson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021822.png,27,Hawthorn,11.53846154,1.461538462,0.153846154,2.538461538,13
+CD_I1021824,Hayley McLaughlin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021824.png,6,Hawthorn,9.545454545,1.818181818,0.181818182,3.818181818,11
+CD_I1021827,Indigo Linde,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021827.png,19,GWS GIANTS,4.333333333,0.833333333,0,0.666666667,6
+CD_I1021828,Alyssia Pisano,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021828.png,3,Melbourne,6.2,1.8,0.4,2.4,5
+CD_I1021837,Laura Stone,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021837.png,22,Hawthorn,12.57142857,0.714285714,0.285714286,6.285714286,14
+CD_I1021844,Jess Vukic,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021844.png,23,Hawthorn,4.333333333,0,0.222222222,3.111111111,9
+CD_I1021851,Lulu Beatty,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021851.png,38,Richmond,7.666666667,2.333333333,0,1.333333333,3
+CD_I1021853,Rylie Wilcox,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021853.png,37,Western Bulldogs,14.09090909,2.454545455,0.454545455,3.272727273,11
+CD_I1021878,Lou-Lou Field,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021878.png,33,Carlton,11,1,0,1,1
+CD_I1021879,Kristie-Lee Weston-Turner,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021879.png,13,Western Bulldogs,4,2,0,2,1
+CD_I1021884,Sarah Grunden,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021884.png,16,Sydney Swans,8.666666667,1.777777778,0.333333333,2.777777778,9
+CD_I1021893,Brooke Barwick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021893.png,12,Western Bulldogs,5,0.75,0,1.5,4
+CD_I1021894,Madison Brazendale,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021894.png,23,GWS GIANTS,14.25,2.75,0.166666667,3.75,12
+CD_I1021895,Georgia Clark,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021895.png,19,Collingwood,4.4,1.4,0,1.4,5
+CD_I1021898,Tunisha Kikoak,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021898.png,37,Fremantle,6.181818182,1.454545455,0.363636364,1.818181818,11
+CD_I1021923,Sierra Grieves,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021923.png,25,Richmond,13.11111111,2.777777778,0.222222222,2.666666667,9
+CD_I1021924,Lila Keck,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021924.png,23,Carlton,6.818181818,1.272727273,0.272727273,2.818181818,11
+CD_I1021927,Bryde O'Rourke,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021927.png,23,Geelong Cats,6,1.2,0,1.6,5
+CD_I1021929,Keely Fullerton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021929.png,30,Gold Coast SUNS,6.666666667,0.333333333,0,0.666666667,3
+CD_I1021933,Alexis Gregor,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021933.png,30,Geelong Cats,7.111111111,2,0,1.111111111,9
+CD_I1021945,Rebecca Ott,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1021945.png,20,St Kilda,10.8,0.8,0,3.1,10
+CD_I1022111,Eliza West,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022111.png,2,Hawthorn,22.57142857,1.285714286,0.071428571,5.571428571,14
+CD_I1022112,Imogen Barnett,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022112.png,4,Collingwood,11.41666667,3.916666667,0,3.916666667,12
+CD_I1022127,Claudia Gunjaca,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022127.png,26,Geelong Cats,11.45454545,3.363636364,0,2.545454545,11
+CD_I1022133,Annabel Johnson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022133.png,24,West Coast Eagles,7.25,2,0,1.5,4
+CD_I1022181,Shineah Goody,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022181.png,16,Port Adelaide,12.91666667,2.25,0.25,5.916666667,12
+CD_I1022192,Meara Girvan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022192.png,25,Gold Coast SUNS,13.36363636,4.090909091,0.090909091,1.454545455,11
+CD_I1022193,Sarah Goodwin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022193.png,11,Adelaide Crows,18.21428571,2.071428571,0,4.571428571,14
+CD_I1022196,Piper Window,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022196.png,4,Port Adelaide,9.666666667,0.666666667,0.333333333,4.333333333,3
+CD_I1022203,Elaine Grigg,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022203.png,5,Western Bulldogs,11.08333333,0.666666667,0.5,5.833333333,12
+CD_I1022210,Sachi Syme,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022210.png,20,Port Adelaide,12.58333333,2.416666667,0,1.833333333,12
+CD_I1022220,Molly Brooksby,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022220.png,6,Port Adelaide,13.66666667,1.75,0,3.333333333,12
+CD_I1022224,Brooke Boileau,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022224.png,3,Adelaide Crows,9.785714286,1.142857143,0.214285714,4.571428571,14
+CD_I1022236,Jessica Good,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022236.png,12,Carlton,10.38461538,1.307692308,0,2.692307692,13
+CD_I1022248,Lauren Young,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022248.png,22,Port Adelaide,5.25,1.75,0.5,3.75,4
+CD_I1022299,Amelie Borg,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022299.png,21,Port Adelaide,5.545454545,0.909090909,0,1.363636364,11
+CD_I1022350,Cynthia Hamilton,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022350.png,10,Sydney Swans,11,2.090909091,0.727272727,2.272727273,11
+CD_I1022358,Zarlie Goldsworthy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022358.png,7,GWS GIANTS,21.16666667,2.75,0.333333333,6.166666667,12
+CD_I1022685,Brooke Sheridan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022685.png,11,Essendon,3,0,0,1,1
+CD_I1022689,Bella K. Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022689.png,2,Geelong Cats,7.166666667,1,0,2.833333333,6
+CD_I1022691,Ella Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022691.png,16,Gold Coast SUNS,7,1.416666667,0.166666667,1.25,12
+CD_I1022695,Jasmyn Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022695.png,10,Western Bulldogs,13.88888889,2.222222222,0,3.555555556,9
+CD_I1022701,Alana Gee,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022701.png,24,St Kilda,12.2,2,0,5.4,5
+CD_I1022723,Brodee Mowbray,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022723.png,31,GWS GIANTS,10.5,2.083333333,0.25,4.25,12
+CD_I1022726,Teagan Germech,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022726.png,30,Port Adelaide,8.75,1.5,0,2.583333333,12
+CD_I1022736,Jessica Doyle,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022736.png,5,GWS GIANTS,7.6,2.3,0.3,1.7,10
+CD_I1022738,Ruby Sargent-Wilson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022738.png,6,Sydney Swans,8.2,1.6,0.4,2.4,5
+CD_I1022744,Madeline Hendrie,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022744.png,49,Carlton,7.866666667,2.266666667,0,1.933333333,15
+CD_I1022745,Ella Heads,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022745.png,12,Port Adelaide,13.75,3.916666667,0.166666667,4.166666667,12
+CD_I1022775,Lucia Painter,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022775.png,8,West Coast Eagles,11.36363636,2.454545455,0.909090909,3.363636364,11
+CD_I1022818,Sarah Lakay,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022818.png,23,West Coast Eagles,7.9,1.3,0.2,2.7,10
+CD_I1022823,Ella Roberts,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022823.png,4,West Coast Eagles,23.83333333,3.833333333,0.666666667,7.333333333,12
+CD_I1022825,Lauren Wakfer,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022825.png,1,West Coast Eagles,10.92307692,2.384615385,0.615384615,4.076923077,13
+CD_I1022885,Taylah Gatt,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1022885.png,8,Kangaroos,13,1.666666667,0.111111111,3.888888889,9
+CD_I1023389,Chloe Adams,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023389.png,15,Essendon,12.25,2.333333333,0.083333333,4.75,12
+CD_I1023433,Sara Howley,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023433.png,9,GWS GIANTS,13.83333333,2.333333333,0.166666667,2,12
+CD_I1023815,Abbygail Bushby,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023815.png,15,West Coast Eagles,13.33333333,2,0.25,2.583333333,12
+CD_I1023842,Zippy Fish,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023842.png,23,Sydney Swans,21.16666667,3.083333333,0.333333333,3.333333333,12
+CD_I1023857,Georgie Cleaver,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023857.png,22,West Coast Eagles,12.38461538,2.615384615,0,2.153846154,13
+CD_I1023943,Matilda Scholz,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023943.png,29,Port Adelaide,17,4.333333333,0.416666667,2.666666667,12
+CD_I1023948,Poppy Scholz,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023948.png,7,Carlton,9.733333333,2.733333333,0.866666667,2.733333333,15
+CD_I1023950,Alissa Brook,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023950.png,23,Port Adelaide,5.714285714,1.285714286,0,1.428571429,7
+CD_I1023952,Lucy Boyd,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1023952.png,26,West Coast Eagles,0.5,0,0,1,2
+CD_I1024085,India Rasheed,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024085.png,8,Adelaide Crows,10.35714286,3.142857143,0.214285714,1.571428571,14
+CD_I1024294,Lulu Pullar,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024294.png,12,Sydney Swans,12.75,2.583333333,0.083333333,2.666666667,12
+CD_I1024296,Rachel Kearns,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024296.png,22,Geelong Cats,11.41666667,2.333333333,0.166666667,2.583333333,12
+CD_I1024535,Darcie Davies,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024535.png,3,Gold Coast SUNS,8.5,1.4,0.4,3.4,10
+CD_I1024536,Tara Harrington,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024536.png,28,Gold Coast SUNS,5.5,1,0,2,8
+CD_I1024541,Sienna McMullen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024541.png,23,Gold Coast SUNS,7,1.333333333,0.333333333,0.666666667,3
+CD_I1024549,Nyalli Milne,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024549.png,29,Gold Coast SUNS,5.25,0.75,0.25,1,4
+CD_I1024552,Havana Harris,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024552.png,12,Gold Coast SUNS,13.16666667,3.083333333,0.916666667,2.666666667,12
+CD_I1024553,Kaylee Kimber,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024553.png,28,Western Bulldogs,9.363636364,2.090909091,0,1.727272727,11
+CD_I1024584,Fleur Davies,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024584.png,20,GWS GIANTS,6.666666667,1.833333333,0.333333333,2.833333333,6
+CD_I1024636,Lily Johnson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024636.png,33,Melbourne,5.666666667,0.555555556,0.111111111,2.111111111,9
+CD_I1024984,Ally Dallaway,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1024984.png,30,Richmond,14.18181818,2.909090909,0,2.363636364,11
+CD_I1025163,Jacqueline Dupuy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025163.png,27,Gold Coast SUNS,10.66666667,2.111111111,0.777777778,2.666666667,9
+CD_I1025419,Ashley Centra,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025419.png,16,Collingwood,14,3.25,0.75,2.875,8
+CD_I1025421,Amber Schutte,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025421.png,21,Collingwood,9.545454545,2,0,2.272727273,11
+CD_I1025428,Jessica Rentsch,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025428.png,7,West Coast Eagles,10.33333333,1.333333333,0,5.166666667,12
+CD_I1025494,Meg Robertson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025494.png,15,Carlton,2.333333333,0.333333333,0.333333333,1.333333333,3
+CD_I1025507,Emily Everist,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025507.png,25,Hawthorn,11.58333333,2.166666667,0,3.083333333,12
+CD_I1025517,Heidi Woodley,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025517.png,19,Western Bulldogs,8.75,1.333333333,0.416666667,2.833333333,12
+CD_I1025521,Kyla Forbes,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025521.png,15,St Kilda,7.454545455,1.363636364,0,2.545454545,11
+CD_I1025525,Amy Gaylor,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025525.png,23,Essendon,17.75,2.416666667,0.083333333,3.5,12
+CD_I1025526,Kayley Kavanagh,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025526.png,25,West Coast Eagles,8.714285714,1,0.142857143,4.142857143,7
+CD_I1025548,Georgia Knight,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025548.png,12,Collingwood,2.4,0.8,0.2,0.6,5
+CD_I1025550,Georgie Brisbane,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025550.png,13,Fremantle,6.090909091,2.363636364,0.454545455,2.454545455,11
+CD_I1025564,Mia Austin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025564.png,22,Carlton,6,1.857142857,0.571428571,2.285714286,7
+CD_I1025565,Grace Belloni,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025565.png,7,Essendon,12.5,2.125,0.25,2.375,8
+CD_I1025609,Lucille Cronin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025609.png,27,Collingwood,13.08333333,3.083333333,0,2.166666667,12
+CD_I1025611,Sarah Poustie,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025611.png,1,Western Bulldogs,9.4,1,0,5.8,10
+CD_I1025613,Sienna Tallariti,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025613.png,13,Geelong Cats,11,1.857142857,0,0.714285714,7
+CD_I1025616,Lara Hausegger,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025616.png,26,Sydney Swans,9.5,2,0,2.333333333,12
+CD_I1025617,Maggie Mahony,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025617.png,20,Melbourne,10,0.923076923,0.230769231,4.153846154,13
+CD_I1025631,Amelie Gladman,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025631.png,26,Essendon,5,0.6,0,0.8,5
+CD_I1025671,Daisy Flockart,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025671.png,14,Hawthorn,10.14285714,0.428571429,0.142857143,5.571428571,7
+CD_I1025677,Sophie McKay,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025677.png,55,Carlton,13.06666667,2.066666667,1.2,2.6,15
+CD_I1025690,Maddison Torpey,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025690.png,37,Carlton,6.333333333,0,0,2.333333333,3
+CD_I1025789,Tanya Kennedy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025789.png,29,Sydney Swans,19.33333333,1.25,0.333333333,8,12
+CD_I1025795,Sarah Steele-Park,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025795.png,22,Sydney Swans,10,2,0,3,2
+CD_I1025819,Laela Ebert,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025819.png,19,Melbourne,8.428571429,1.142857143,0,2,14
+CD_I1025861,Holly Ifould,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025861.png,17,Fremantle,9,1.4,0,1.8,5
+CD_I1025893,Ella Boag,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025893.png,17,Port Adelaide,9,1.583333333,0.333333333,3.5,12
+CD_I1025895,Violet Patterson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025895.png,26,Collingwood,6.454545455,0.909090909,0.090909091,2.727272727,11
+CD_I1025924,Grace Martin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025924.png,1,GWS GIANTS,9.416666667,1.5,0,1.083333333,12
+CD_I1025962,Charlotte Riggs,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025962.png,12,West Coast Eagles,7.818181818,2.090909091,0.454545455,1.636363636,11
+CD_I1025995,Lily Goss,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1025995.png,20,Carlton,12.93333333,2.133333333,0.266666667,6.266666667,15
+CD_I1026012,Melissa Bragg,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026012.png,44,Geelong Cats,4.333333333,0.666666667,0,1,3
+CD_I1026016,Montana Beruldsen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026016.png,8,Richmond,7,0.375,0.125,3.625,8
+CD_I1026053,Emma Kilpatrick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026053.png,27,Geelong Cats,10.09090909,1.727272727,0.090909091,2.636363636,11
+CD_I1026104,Mia Salisbury,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026104.png,19,Gold Coast SUNS,8.636363636,1.909090909,0,1.272727273,11
+CD_I1026105,Kiara Bischa,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026105.png,26,Gold Coast SUNS,9,1.818181818,0,2.545454545,11
+CD_I1026111,Sophie Peters,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026111.png,22,Brisbane Lions,5.666666667,0.333333333,0,2,3
+CD_I1026137,Claudia Wright,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026137.png,24,Brisbane Lions,6.5,0.5,0,2,2
+CD_I1026141,Ella Slocombe,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026141.png,18,Kangaroos,7,0,0,5,1
+CD_I1026170,Mikayla Western,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026170.png,21,West Coast Eagles,9.818181818,1.454545455,0.272727273,3.909090909,11
+CD_I1026227,Julia Teakle,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026227.png,15,Port Adelaide,4,2,2,0,1
+CD_I1026263,Taya Chambers,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026263.png,13,Essendon,6.5,1.5,0,1.5,10
+CD_I1026294,Ariana Hetherington,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026294.png,29,Kangaroos,6.4,1.2,0,3.2,5
+CD_I1026320,Kaitlyn Srhoj,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026320.png,14,GWS GIANTS,18.25,2.916666667,0.25,4.833333333,12
+CD_I1026372,Molly O'Hehir,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026372.png,11,Melbourne,9.153846154,1.769230769,0,1.923076923,13
+CD_I1026384,Indi Strom,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026384.png,26,Fremantle,7.583333333,1.666666667,0,3.25,12
+CD_I1026395,Jess Verbrugge,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026395.png,29,Essendon,5.666666667,1.333333333,0,1.666666667,3
+CD_I1026444,Amy Mulholland,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026444.png,33,Fremantle,6.5,1.5,0,2.5,4
+CD_I1026531,Charli Wicksteed,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026531.png,24,Richmond,9.166666667,2,0,3.5,6
+CD_I1026929,Lucy Wales,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026929.png,31,Hawthorn,18.33333333,2.777777778,0,5.888888889,9
+CD_I1026937,Rania Crozier,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026937.png,23,Brisbane Lions,6,1.333333333,0,1,3
+CD_I1026947,Chantal Mason,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1026947.png,24,Geelong Cats,6.5,1.5,0.75,1.625,8
+CD_I1027050,Lily Paterson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1027050.png,7,Port Adelaide,9.333333333,2,0,1.833333333,6
+CD_I1027544,Zoe Besanko,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1027544.png,11,St Kilda,3.818181818,0.545454545,0.181818182,2.272727273,11
+CD_I1027545,Kayla Dalgleish,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1027545.png,32,West Coast Eagles,9.636363636,1.181818182,0.545454545,2.818181818,11
+CD_I1027611,Zoe Wakfer,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1027611.png,16,West Coast Eagles,5.769230769,1.384615385,0,2.461538462,13
+CD_I1027783,Stephanie Wales,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1027783.png,30,Essendon,12.77777778,1.444444444,0,5.555555556,9
+CD_I1028464,Dominique Carruthers,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1028464.png,8,Western Bulldogs,11.08333333,1.583333333,0,3.75,12
+CD_I1028918,Ellie Veerhuis,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1028918.png,33,Gold Coast SUNS,5.909090909,0.818181818,0,1.090909091,11
+CD_I1029279,Holly Cooper,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029279.png,2,Sydney Swans,5.5,1,0.833333333,3.333333333,12
+CD_I1029613,Georgia Clayden,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029613.png,18,Gold Coast SUNS,11.66666667,3.833333333,0.083333333,1.583333333,12
+CD_I1029614,Eleanor Hartill,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029614.png,1,Brisbane Lions,6.666666667,1.466666667,0.266666667,1.866666667,15
+CD_I1029615,Erika O'Shea,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029615.png,14,Kangaroos,16.5,3.785714286,0,3.5,14
+CD_I1029617,Cambridge McCormick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029617.png,25,GWS GIANTS,16.58333333,2.916666667,0.083333333,4.083333333,12
+CD_I1029618,Vikki Wall,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029618.png,13,Kangaroos,11.16666667,1.666666667,0.583333333,3.5,12
+CD_I1029621,Megan Kauffman,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029621.png,25,Fremantle,14.16666667,1.416666667,0.166666667,3.75,12
+CD_I1029623,Orlagh Lally,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029623.png,14,Fremantle,11.85714286,1.428571429,0.142857143,3.571428571,7
+CD_I1029625,Blaithin Mackin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029625.png,31,Melbourne,12.42857143,1.428571429,0.142857143,1.285714286,7
+CD_I1029626,Aine McDonagh,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029626.png,13,Hawthorn,12.07142857,2.214285714,1.571428571,2.357142857,14
+CD_I1029628,Saraid Taylor,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1029628.png,28,Melbourne,9.25,2.333333333,0,4.75,12
+CD_I1030204,Chloe Gaunt,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1030204.png,31,Port Adelaide,2.428571429,0.571428571,0.285714286,1.571428571,7
+CD_I1030375,Sophie Strong,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1030375.png,18,Essendon,4.6,0,0,2.6,5
+CD_I1030964,Jasmine Evans,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1030964.png,3,Port Adelaide,3.2,0.4,0,1,5
+CD_I1031080,Christina Leuzzi,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031080.png,19,Adelaide Crows,6,2,0,1,1
+CD_I1031247,Joanne Cregg,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031247.png,23,Fremantle,8.5,0,0,1,2
+CD_I1031272,Indiana West,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031272.png,29,Fremantle,7.7,0.6,0,2,10
+CD_I1031303,Elli Symonds,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031303.png,21,Hawthorn,6.75,1.5,0.25,3.125,8
+CD_I1031314,Grace Baba,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031314.png,15,Hawthorn,8.555555556,0.888888889,0,2.111111111,9
+CD_I1031342,Jasmine Sowden,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031342.png,32,Port Adelaide,7.909090909,1.454545455,0.181818182,4.727272727,11
+CD_I1031378,Holly Ridewood,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031378.png,10,Essendon,10,0.833333333,0.333333333,2.916666667,12
+CD_I1031390,Emma McDonald,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031390.png,9,Western Bulldogs,8.090909091,3.181818182,1,1.636363636,11
+CD_I1031398,Isabel Bacon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031398.png,11,Richmond,8,1.416666667,0.25,4.416666667,12
+CD_I1031412,Mackenzie Ford,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031412.png,33,Richmond,6.5,0.916666667,0.166666667,3.583333333,12
+CD_I1031564,Amelia Martin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031564.png,21,Sydney Swans,5.666666667,1,0.166666667,2,6
+CD_I1031784,Cleo Buttifant,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031784.png,20,Western Bulldogs,7.8,1.4,0,1.4,5
+CD_I1031857,Shelby Knoll,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1031857.png,23,Richmond,4,1,1,2,1
+CD_I1033157,Jennifer Dunne,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033157.png,8,Brisbane Lions,11.73333333,3.4,0.066666667,1.133333333,15
+CD_I1033158,Dayna Finn,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033158.png,17,Carlton,21.86666667,4.866666667,0.666666667,3.333333333,15
+CD_I1033159,Erone Fitzpatrick,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033159.png,19,Carlton,17.33333333,2.533333333,0.866666667,4.066666667,15
+CD_I1033164,Paris McCarthy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033164.png,15,Sydney Swans,7.833333333,1.5,0.25,1.916666667,12
+CD_I1033165,Niamh McLaughlin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033165.png,11,Gold Coast SUNS,23.33333333,3.666666667,0.166666667,1.416666667,12
+CD_I1033166,Aishling Moloney,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033166.png,45,Geelong Cats,14.25,3.083333333,1.416666667,2.25,12
+CD_I1033167,Courtney Murphy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033167.png,33,Essendon,6.5,0.666666667,0.166666667,2.666666667,6
+CD_I1033168,Julie O'Sullivan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033168.png,24,Sydney Swans,8,0.6,0.2,2,5
+CD_I1033269,Evie Long,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1033269.png,16,Brisbane Lions,3.5,0.25,0,1.75,4
+CD_I1035370,Taya Oliver,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1035370.png,44,Gold Coast SUNS,3.5,1.5,0,1,2
+CD_I1035371,Ryleigh Wotherspoon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1035371.png,12,Melbourne,10.92307692,1.769230769,0.615384615,5.076923077,13
+CD_I1035374,Muireann Atkinson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1035374.png,10,Collingwood,8.5,2.5,0,1.166666667,6
+CD_I1035375,Amy Boyle-Carr,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1035375.png,24,Adelaide Crows,8,0.727272727,0.090909091,2.909090909,11
+CD_I1035689,Courtney Lindgren,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1035689.png,31,West Coast Eagles,7,1,0,3,2
+CD_I1036082,Kate Kenny,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1036082.png,12,Geelong Cats,9.833333333,1.916666667,0.333333333,2.5,12
+CD_I1036083,Eilish O'Dowd,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1036083.png,15,GWS GIANTS,15.83333333,2.416666667,0.416666667,2.666666667,12
+CD_I1036296,Caitlin Reid,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1036296.png,13,Sydney Swans,6.428571429,1.428571429,0,2.285714286,7
+CD_I1036297,Piper Dunlop,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1036297.png,38,Geelong Cats,6.777777778,0.888888889,0,2,9
+CD_I1036298,Caitlin Fletcher,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1036298.png,11,GWS GIANTS,10,5,0,2,1
+CD_I1036301,Sophie Kavanagh,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1036301.png,21,GWS GIANTS,6.428571429,0.857142857,0,2.285714286,7
+CD_I1036302,Blaithin Bogue,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1036302.png,10,Kangaroos,11,2.266666667,1.666666667,1.933333333,15
+CD_I1037024,Lavinia Cox,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1037024.png,8,Hawthorn,5,0.666666667,0,1.333333333,3
+CD_I1037133,Sanne Bakker,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1037133.png,20,West Coast Eagles,7.6,1.6,0,3.2,5
+CD_I1042236,Aisling Reidy,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042236.png,13,Carlton,7,1,0.25,1.5,4
+CD_I1042237,Siofra O'Connell,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042237.png,14,Carlton,5.333333333,0.5,0,2.166666667,6
+CD_I1042246,Kellyann Hogan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042246.png,24,Collingwood,7,1.5,0,1,4
+CD_I1042256,Grace Brooker,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042256.png,32,Essendon,4.6,1.2,0.4,2,5
+CD_I1042260,Caitlin Tipping,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042260.png,4,Geelong Cats,4.2,0.8,0,1.4,5
+CD_I1042264,Amy Gavin Mangan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042264.png,21,Kangaroos,8.857142857,1,0.428571429,2.571428571,7
+CD_I1042277,Matilda Banfield,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042277.png,16,Fremantle,8.125,1.125,0.25,4.375,8
+CD_I1042707,Kayleigh Cronin,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042707.png,22,Adelaide Crows,6,1,0,1.166666667,6
+CD_I1042794,Aoibhin Cleary,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042794.png,13,Richmond,12,1,0,0,2
+CD_I1042795,Neasa Dooley,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042795.png,13,Brisbane Lions,7.071428571,1.357142857,0.714285714,1.571428571,14
+CD_I1042797,Grace Kos,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1042797.png,27,GWS GIANTS,5.6,0.6,0,1.8,5
+CD_I1043806,Tayla Gregory,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/1043806.png,32,Gold Coast SUNS,5.6,0.8,0.2,2.2,5
+CD_I296125,Ellie Blackburn,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/296125.png,2,Western Bulldogs,17.91666667,2.166666667,0.666666667,3.166666667,12
+CD_I296141,Louise Stephenson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/296141.png,14,Western Bulldogs,8.454545455,1.454545455,0.363636364,1.272727273,11
+CD_I296148,Rebecca Privitelli,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/296148.png,19,Sydney Swans,6.8,1.8,0.6,1.8,5
+CD_I296154,Jasmine Garner,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/296154.png,25,Kangaroos,27.28571429,3.071428571,1.5,6.214285714,14
+CD_I296158,Bianca Jakobsson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/296158.png,8,St Kilda,8.4,2.8,0,2.4,5
+CD_I997649,Kaitlyn Ashmore,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997649.png,10,Hawthorn,9.5,2.1,0.3,3.6,10
+CD_I997663,Darcy Vescio,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997663.png,3,Carlton,10.46666667,1.933333333,0.133333333,2.266666667,15
+CD_I997686,Kirsty Lamb,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997686.png,35,Port Adelaide,11.33333333,2,0.166666667,2.5,6
+CD_I997700,Eliza Shannon,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997700.png,11,Kangaroos,13.26666667,3.6,0,1.8,15
+CD_I997708,Lily Mithen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997708.png,14,Gold Coast SUNS,14.91666667,2.916666667,0,4.416666667,12
+CD_I997709,Amy McDonald,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997709.png,3,Geelong Cats,19.75,1.583333333,0.083333333,5.083333333,12
+CD_I997725,Isabel Huntington,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997725.png,12,GWS GIANTS,7.333333333,2,0.25,1,12
+CD_I997728,Deanna Berry,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997728.png,7,Western Bulldogs,8.142857143,0.428571429,0.428571429,1.571428571,7
+CD_I997729,Brittany Bonnici,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997729.png,8,Collingwood,23.36363636,2.272727273,0,8.909090909,11
+CD_I997733,Katherine Smith,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997733.png,4,GWS GIANTS,11.5,2,0,4.166666667,12
+CD_I997736,Jordyn Allen,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997736.png,6,Collingwood,13.625,3.75,0,1.75,8
+CD_I997743,Katelyn Cox,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997743.png,17,Richmond,7.3,0.8,0,3.8,10
+CD_I997745,Georgia Gee,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/997745.png,2,Essendon,11.36363636,1.454545455,0.727272727,2.272727273,11
+CD_I998029,Alicia Eva,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998029.png,2,GWS GIANTS,8.25,1,0,2,4
+CD_I998030,Kiara Bowers,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998030.png,2,Fremantle,21.33333333,2.666666667,0.166666667,12.08333333,12
+CD_I998032,Emma Swanson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998032.png,13,West Coast Eagles,15.66666667,2.416666667,0.166666667,1.916666667,12
+CD_I998039,Tayla Harris,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998039.png,7,Melbourne,12.33333333,3.533333333,1.066666667,1.733333333,15
+CD_I998040,Hayley Miller,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998040.png,19,Fremantle,13.91666667,3.333333333,0.916666667,2.833333333,12
+CD_I998041,Kellie Gibson,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998041.png,2,West Coast Eagles,8.666666667,1.416666667,0.416666667,3.833333333,12
+CD_I998044,Chelsea Randall,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998044.png,26,Adelaide Crows,11.16666667,3.333333333,1,2.666666667,6
+CD_I998149,Paxy Paxman,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998149.png,4,Melbourne,15.6,2.733333333,0.2,2.333333333,15
+CD_I998150,Emma Kearney,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998150.png,9,Kangaroos,18.25,3.666666667,0,1.25,12
+CD_I998155,Emily Bates,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998155.png,1,Hawthorn,21.5,1.5,0.125,5.625,8
+CD_I998156,Dana Hooker,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998156.png,17,West Coast Eagles,10.22222222,1.666666667,0.111111111,1.888888889,9
+CD_I998157,Katie Brennan,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998157.png,3,Richmond,11.18181818,3.181818182,0.545454545,2.181818182,11
+CD_I998164,Nicola Stevens,https://s.afl.com.au/staticfile/AFL Tenant/AFL/Players/ChampIDImages/AFLW/2025264/998164.png,2,St Kilda,8.666666667,1.666666667,0,3.833333333,12
